@@ -24,6 +24,7 @@ La aplicación gestiona datos de productos a través de las siguientes funcional
     * Accesible desde el botón "Ver más detalles" de cada tarjeta.
     * Muestra información ampliada del producto (descripción, categoría, stock, precio).
     * Permite desmarcar el producto (favorito) desde esta vista, actualizando el estado global.
+    * Permite editar el producto y eliminarlo (con confirmación previa).
 * **Formulario de Creación y Edición**:
     * Componente reutilizable que permite crear un nuevo producto desde cero.
     * Permite editar un producto existente, con los campos precargados según el ID del producto.
