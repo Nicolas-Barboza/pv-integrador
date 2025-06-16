@@ -1,4 +1,4 @@
-# Sistema de Gestión de Productos - SPA en React+Vite🛍️
+# Sistema de Gestión de Productos - SPA en React + Vite 🛍️
 
 _Trabajo Final Integrador - Programación Visual - Facultad de Ingeniería, UNJu_
 
