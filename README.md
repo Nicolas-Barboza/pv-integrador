@@ -91,7 +91,7 @@ Para ejecutar este proyecto en tu entorno de desarrollo local, sigue estos senci
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/Nicolas-Barboza/pv_tp_integrador_grupo6.git](https://github.com/Nicolas-Barboza/pv_tp_integrador_grupo6.git)
+    git clone https://github.com/Nicolas-Barboza/pv_tp_integrador_grupo6.git
     cd pv_tp_integrador_grupo6
     ```
 2.  **Instala las dependencias del proyecto:**
